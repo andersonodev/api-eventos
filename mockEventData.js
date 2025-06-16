@@ -148,10 +148,10 @@ const mockEvents = [
   },
   {
     id: 8,
-    title: "Lula vs Bolsonaro - Debate Político",
+    title: "Rio innovation week",
     description: "O melhor do forró universitário em uma noite inesquecível!",
     longDescription: "Uma celebração da cultura nordestina com as melhores bandas de forró da região. Venha dançar e se divertir ao som do melhor forró!",
-    image: "https://static.poder360.com.br/2024/12/print-ia-lula-bolsonaro-natal-dez2024-848x477.jpg",
+    image: "https://www.govdados.org.br/wp-content/uploads/2024/09/RIW.webp",
     date: "18 de Maio de 2025",
     endDate: "18 de Maio de 2025",
     time: "20:00 - 02:00",
