@@ -190,8 +190,8 @@ const mockEvents = [
   },
   {
     id: 10,
-    title: "Sunset Eletrônico Beira Mar Recife",
-    description: "Curta o pôr do sol ao som dos melhores DJs da cena eletrônica nordestina.",
+    title: "Sunset Eletrônico Beira Mar Recife da ibmec",
+    description: "Curta o pôr do sol ao som dos melhores DJs da cena eletrônica nordestina. NO IBMEC BARRA",
     longDescription: "Uma experiência única na beira mar de Recife! O Sunset Eletrônico traz DJs renomados para uma tarde e noite inesquecíveis, com muita música boa, gente bonita e a brisa do mar. Prepare-se para vibrar!",
     image: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&h=600&fit=crop&crop=center",
     date: "27 de Setembro de 2025",
